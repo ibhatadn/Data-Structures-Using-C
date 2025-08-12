@@ -21,15 +21,19 @@ The aim of this repo is to serve as:
 - Doubly Linked List
 - Circular Linked List
 - Stack
+  - Static Stack
+  - Dynamic Stack
 - Queue
-  - Simple Queue
+  - Static Queue
+  - Dynamic Queue
   - Circular Queue
 
 ### Non-Linear Data Structures
 - Binary Tree
 - Binary Search Tree (BST)
-- Graphs (Adjacency Matrix & Adjacency List)
+- Graph
 - AVL Tree
+- min heap
 
 ---
 
