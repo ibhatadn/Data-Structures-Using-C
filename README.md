@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 This repository contains my **personal implementations** of common data structures in the C programming language.  
-All programs have been written by me during my college years as part of my learning journey in **Data Structures & Algorithms**.
+All programs have been written by me during my college years as part of my learning journey in **Data Structures**.
 
 The aim of this repo is to serve as:
 - A reference for students & learners
