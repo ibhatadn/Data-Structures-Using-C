@@ -48,4 +48,4 @@ The aim of this repo is to serve as:
 
 1. **Clone the repository**
    ```bash
-   git clone git@github.com:ibhatadn/Data-Structures-Using-C.git
+   git clone https://github.com/ibhatadn/Data-Structures-Using-C.git
