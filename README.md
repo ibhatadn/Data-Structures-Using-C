@@ -9,7 +9,7 @@ All programs have been written by me during my college years as part of my learn
 
 The aim of this repo is to serve as:
 - A reference for students & learners
-- A collection of clean, well-documented C code
+- A collection of clean C code
 - A personal archive of my DSA journey
 
 ---
